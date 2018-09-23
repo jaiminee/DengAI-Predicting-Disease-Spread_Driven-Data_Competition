@@ -5,7 +5,7 @@ Setup:
 Language used : Python 
 Put the *.ipynb inside your anaconda workspace and open this file.
 
-Data set: [Dengue Data](https://github.com/dhwanikaneria/DenguePrediction/tree/master/Data)
+Data set: [Dengue Data](https://github.com/jaiminee/DengAI-Predicting-Disease-Spread_Driven-Data_Competition/tree/master/Data)
 
 Feature Engineering:
 It is the process to make Algorithms of Machine Learning efficient by introducing new features to the dataset or transforming our features.
